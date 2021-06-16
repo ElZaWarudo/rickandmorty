@@ -51,7 +51,7 @@ class _homeState extends State<home> {
             Padding(
               padding: const EdgeInsets.fromLTRB(20, 0, 20, 0),
               child: Text(
-                "Ingrese el codigo subministrado para ver la información de los contratos a cazar",
+                "Ingrese el codigo suministrado para ver la información de los contratos a cazar",
                 style: TextStyle(fontSize: 20),
               ),
             ),
