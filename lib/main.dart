@@ -59,6 +59,7 @@ class _homeState extends State<home> {
               height: 20,
             ),
             TextField(
+              obscureText: true,
               decoration: InputDecoration(
                   border: OutlineInputBorder(), hintText: 'Codigo aquí'),
               controller: _passController,
